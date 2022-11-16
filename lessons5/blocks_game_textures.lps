@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="blocks_game_textures.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="324"/>
+        <CursorPos X="27" Y="328"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="52" Y="17"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Ray4Laz/source/raylib.inc"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="17">
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="395" Column="37" TopLine="372"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="396" Column="37" TopLine="373"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="397" Column="37" TopLine="374"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="398" Column="37" TopLine="375"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="399" Column="37" TopLine="376"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="400" Column="37" TopLine="377"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="401" Column="37" TopLine="378"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="402" Column="37" TopLine="379"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1132" Column="30" TopLine="1109"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1136" Column="35" TopLine="1113"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1427" Column="55" TopLine="1404"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1459" Column="45" TopLine="1436"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1541" Column="45" TopLine="1518"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_textures.lpr"/>
+        <Caret Line="250" TopLine="239"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1194" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_textures.lpr"/>
+        <Caret Line="313" Column="65" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_textures.lpr"/>
+        <Caret Line="296" Column="95" TopLine="285"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_textures.lpr"/>
+        <Caret Line="312" Column="15" TopLine="298"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

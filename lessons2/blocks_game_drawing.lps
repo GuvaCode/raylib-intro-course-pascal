@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="212"/>
+        <CursorPos X="41" Y="233"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1520"/>
+        <CursorPos X="49" Y="1543"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="395" Column="37" TopLine="372"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="396" Column="37" TopLine="373"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="397" Column="37" TopLine="374"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="398" Column="37" TopLine="375"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="399" Column="37" TopLine="376"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="400" Column="37" TopLine="377"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="401" Column="37" TopLine="378"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="402" Column="37" TopLine="379"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1132" Column="30" TopLine="1109"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1136" Column="35" TopLine="1113"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1427" Column="55" TopLine="1404"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1459" Column="45" TopLine="1436"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1541" Column="45" TopLine="1518"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="65" Column="16" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="87" Column="42" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="93" Column="107" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="103" Column="143" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="100" Column="105" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="177" Column="15" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="175" Column="37" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="177" Column="30" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="176" Column="69" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="197" Column="72" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="184" Column="73" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="32" Column="5" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="187" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="193" Column="52" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="198" Column="93" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="211" Column="99" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_drawing.lpr"/>
+        <Caret Line="220" Column="37" TopLine="200"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

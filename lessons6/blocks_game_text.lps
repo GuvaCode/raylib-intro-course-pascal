@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="blocks_game_text.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="318"/>
+        <CursorPos X="71" Y="328"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="180"/>
+        <CursorPos X="7" Y="191"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Ray4Laz/source/raylib.inc"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="72" Column="15" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="245" Column="31" TopLine="235"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="271" Column="107" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="333" Column="15" TopLine="317"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="324" Column="17" TopLine="314"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="28" Column="47" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_text.lpr"/>
+        <Caret Line="202" Column="33" TopLine="184"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

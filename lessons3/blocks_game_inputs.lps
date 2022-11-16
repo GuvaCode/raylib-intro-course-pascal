@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="268"/>
+        <CursorPos X="42" Y="289"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="10" Y="1205"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="395" Column="37" TopLine="372"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="396" Column="37" TopLine="373"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="397" Column="37" TopLine="374"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="398" Column="37" TopLine="375"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="399" Column="37" TopLine="376"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="400" Column="37" TopLine="377"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="401" Column="37" TopLine="378"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="402" Column="37" TopLine="379"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1132" Column="30" TopLine="1109"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1136" Column="35" TopLine="1113"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1427" Column="55" TopLine="1404"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1459" Column="45" TopLine="1436"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Ray4Laz/source/raylib.pas"/>
+        <Caret Line="1541" Column="45" TopLine="1518"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="180" TopLine="159"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="141" Column="26" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="140" Column="36" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="149" Column="69" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="154" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="161" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="163" Column="65" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="168" Column="76" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="blocks_game_inputs.lpr"/>
+        <Caret Line="175" Column="40" TopLine="159"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
