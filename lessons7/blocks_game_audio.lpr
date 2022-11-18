@@ -17,7 +17,7 @@
 program blocks_game_audio;
 
 {$mode objfpc}{$H+}
-
+{.$define LESSON02_SHAPES}
 uses 
 cmem, raylib;
 
@@ -40,7 +40,7 @@ type
  TBall = record
    position : TVector2;
    speed    : TVector2;
-   radius   : Integer;
+   radius   : Single;
    active   : Boolean;
  end;
 
@@ -319,7 +319,8 @@ begin
               {$ELSE}
               // LESSON 05: Textures loading and drawing
               DrawTextureEx(texPaddle, player.position, 0.0, 1.0, WHITE);   // Draw player
-              DrawTexture(texBall, Round(ball.position.x) - ball.radius div 2, Round(ball.position.y) - ball.radius div 2, MAROON);    // Draw ball
+              DrawTexture(texBall,
+              Trunc(ball.position.x - ball.radius / 2),Trunc( ball.position.y - ball.radius / 2) , MAROON);    // Draw ball
 
               // Draw bricks
               for j:=0 to BRICKS_LINES -1 do
